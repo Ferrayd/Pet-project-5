@@ -1,0 +1,5 @@
+.place-card__image.popup__image_is-open {
+    display: flex;
+    max-width: 80vw;
+    max-height: 80vh;
+  }

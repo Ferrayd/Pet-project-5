@@ -1,0 +1,12 @@
+.user-info__button_type_about {
+    width: 38px;
+    height: 18px;
+    font-size: 12px;
+    line-height: 15px;
+    margin-top: 20px;
+}
+
+.user-info__button_type_about:hover {
+    background-color: white;
+    color: black;
+}
